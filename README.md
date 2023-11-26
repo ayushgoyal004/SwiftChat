@@ -1,1 +1,1 @@
-# Snappy-Chat-App-Web
+# SwiftChat-App-Web
